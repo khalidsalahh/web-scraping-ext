@@ -1,0 +1,11 @@
+.env
+dev
+node_modules
+**/npm-debug.log
+*.DS_STORE
+
+.cache
+/static
+/dist
+
+yarn-error.log
